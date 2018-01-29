@@ -1,0 +1,19 @@
+{
+  "name": "dirtyburger",
+  "version": "1.0.0",
+  "description": "Burger app",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinervin/dirtyburger.git"
+  },
+  "author": "Gavin Ervin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gavinervin/dirtyburger/issues"
+  },
+  "homepage": "https://github.com/gavinervin/dirtyburger#readme"
+}
